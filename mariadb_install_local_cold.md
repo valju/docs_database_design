@@ -13,4 +13,4 @@ From https://mariadb.org/download
 
 ### Extract the zip file e.g. in the downloads folder
 
-* Be folder and file aware
+* Be folder and file aware 
